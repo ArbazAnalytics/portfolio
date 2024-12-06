@@ -1,6 +1,6 @@
 👨‍💻 Data Professional | Problem-Solver | Visual Storyteller
 
-Welcome to my portfolio! With over two years of experience in data analytics and engineering, I specialize in transforming complex datasets into actionable insights to drive business decisions. I focus on streamlining operations, building data-driven strategies, and creating impactful visualizations.
+Welcome to my portfolio! With 1+ years of experience in data analytics and engineering, I specialize in transforming complex datasets into actionable insights to drive business decisions. I focus on streamlining operations, building data-driven strategies, and creating impactful visualizations.
 
 🛠️ About Me
 
@@ -67,6 +67,7 @@ Browse through my repositories for detailed project breakdowns, scripts, and das
 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/arbazanalytics/
+
 Email: Arbaz1khan786@gmail.com
 
 Thank you for visiting! If you have any questions or opportunities for collaboration, feel free to reach out.
