@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! With 1+ years of experience in data analytics and engineering, I specialize in transforming complex datasets into actionable insights to drive business decisions. I focus on streamlining operations, building data-driven strategies, and creating impactful visualizations.
 
+https://github.com/ArbazAnalytics/portfolio/blob/main/profile.jpg
+
 🛠️ About Me
 
 Certified Power BI Data Analyst with a postgraduate degree in Big Data Analytics.
