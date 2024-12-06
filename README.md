@@ -1,7 +1,3 @@
-Arbaz Khan
-
-Data Analyst Portfolio
-
 👨‍💻 Data Professional | Problem-Solver | Visual Storyteller
 
 Welcome to my portfolio! With over two years of experience in data analytics and engineering, I specialize in transforming complex datasets into actionable insights to drive business decisions. I focus on streamlining operations, building data-driven strategies, and creating impactful visualizations.
