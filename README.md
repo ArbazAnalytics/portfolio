@@ -1,5 +1,7 @@
 # 💼 Portfolio
 
+![Profile Picture](profile.jpg)
+
 Welcome to my portfolio! I am a **data professional** with over 2 years of experience in **data extraction**, **transformation**, and **visualization** across diverse domains, including healthcare, storage, and government. My expertise lies in applying **Agile workflows**, leveraging **data-driven insights**, and collaborating across functions to deliver impactful solutions.
 
 ---
