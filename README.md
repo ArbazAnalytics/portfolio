@@ -79,9 +79,9 @@ Welcome to my portfolio! I am a **data professional** with over 2 years of exper
 ---
 
 ## 📬 **Contact**
-- **Email:** [your-email@example.com](mailto:arbaz1khan786@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arbazanalytics/)  
-- **GitHub:** [Your GitHub Profile](https://github.com/ArbazAnalytics?tab=repositories)  
+- **Email:** [arbaz1khan786@gmail.com](mailto:arbaz1khan786@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/arbazanalytics/](https://www.linkedin.com/in/arbazanalytics/)  
+- **GitHub:** [https://github.com/ArbazAnalytics?tab=repositories](https://github.com/ArbazAnalytics?tab=repositories)  
 
 ---
 
