@@ -1,75 +1,88 @@
-👨‍💻 Data Professional | Problem-Solver | Visual Storyteller
+# 💼 Data Professional Portfolio
 
-Welcome to my portfolio! With 1+ years of experience in data analytics and engineering, I specialize in transforming complex datasets into actionable insights to drive business decisions. I focus on streamlining operations, building data-driven strategies, and creating impactful visualizations.
+Welcome to my portfolio! I am a **data professional** with over 2 years of experience in **data extraction**, **transformation**, and **visualization** across diverse domains, including healthcare, storage, and government. My expertise lies in applying **Agile workflows**, leveraging **data-driven insights**, and collaborating across functions to deliver impactful solutions.
 
-https://github.com/ArbazAnalytics/portfolio/blob/main/profile.jpg
+---
 
-🛠️ About Me
+## 🛠 **Skills**
+### **Languages**  
+- **SQL**, **Python**, **DAX**, **Power Query M**  
 
-Certified Power BI Data Analyst with a postgraduate degree in Big Data Analytics.
-Proficient in data extraction, transformation, and visualization using tools like Power BI and Tableau.
-Passionate about solving real-world business challenges through data-driven decision-making.
+### **Tools**  
+- **Power BI**, **Tableau**  
+- **Microsoft Office Suite**, **Google Suite**  
+- **LLM Models for analysis**  
 
-💼 Professional Experience
+### **Conceptual Skills**  
+- **ETL**, **Data Storytelling**  
+- **Statistical Analysis**, **Critical Thinking**  
 
-Operations Analyst | Dymon Storage (Jul 2024 – Present)
-Boosted space utilization efficiency by 10% through probabilistic modeling.
-Enhanced customer retention strategies using Python and Excel for advanced segmentation.
-Integrated a ticketing system into ERP platforms, streamlining maintenance workflows.
+### **Functional Skills**  
+- **Agile**, **Project Management**  
+- **Stakeholder Management**, **Attention to Detail**  
 
-Data Analyst | Technology Consultant (Apr 2024 – Jul 2024)
-Cleaned 100K+ hospital records using AI, improving government funding models.
-Delivered machine learning solutions, saving $2M in potential costs over five years.
+---
 
-Data Analyst (Virtual Internship) | TELUS (Feb 2024 – May 2024)
-Designed Power BI dashboards, reducing call wait times by 40%.
-Analyzed agent performance metrics, optimizing resource allocation.
+## 📈 **Professional Experience**
 
-📊 Featured Projects
+### **Operations Analyst | Dymon Storage**  
+*Jul 2024 – Present | Canada*  
+- Enhanced customer retention strategies by segmenting prospects using Python and Excel, leveraging the CRISP-DM methodology.  
+- Improved **space utilization efficiency by 10%** through probabilistic modeling.  
+- Integrated a ticketing system into ERP platforms, streamlining maintenance workflows and minimizing downtime.  
+- Identified revenue leakage opportunities, achieving an **85% occupancy rate across 2,500+ units**.
 
-Customer Data Analysis
+### **Data Analyst | Technology Consultant (Independent Contractor)**  
+*May 2024 – Jul 2024 | Canada*  
+- Cleaned and standardized **100K+ hospital records** using AI, improving data accuracy for provincial government funding models.  
+- Developed machine learning solutions for environmental sustainability, saving **$2M in potential costs** over five years.  
+- Delivered forecasts at the postal code level, optimizing housing construction quality and energy efficiency.  
 
-Objective: Optimize customer retention and marketing strategies.
-Tools: Python, Excel, CRISP-DM methodology.
-Outcome: Increased occupancy rates by 85% across 2,500+ storage units.
+### **Data Engineer | StableHacks**  
+*Aug 2023 – Mar 2024 | Canada*  
+- Automated API extractions with Python, reducing data retrieval time by **40%** and enabling real-time updates.  
+- Built a bag-of-words model in MySQL, improving chatbot matching efficiency by **30%**.  
+- Created interactive Power BI visualizations to highlight funding trends for Indigenous business owners.  
 
-AI-Based Dataset Cleaning
+### **Business Data Analyst | Travel Boots**  
+*Oct 2020 – Apr 2022 | India*  
+- Scraped data from influencer websites, enhancing marketing campaign performance.  
+- Conducted booking data analysis using SQL, Power BI, and Excel, boosting target audience accuracy by **25%**.  
+- Delivered precise marketing insights, driving a **20% YoY revenue increase**.  
 
-Objective: Address inaccuracies in 100K+ hospital records.
-Tools: Machine Learning, Python, ChatGPT APIs.
-Outcome: Achieved a 15% improvement in predictive models for funding allocation.
+---
 
-Interactive Funding Dashboard
+## 🎓 **Education**
+- **Postgraduate Program in Big Data Analytics** | Lambton College, Canada | *Jan 2024*  
+- **Bachelor’s Degree in Engineering** | Inderprastha Engineering College, India | *Oct 2020*  
 
-Objective: Consolidate funding programs for Indigenous businesses in Canada.
-Tools: SQL, MySQL, Power BI.
-Outcome: Enhanced chatbot efficiency by 30% and automated API data updates.
+---
 
-🧰 Technical Skills
+## 🎖 **Certificates**
+- **Microsoft Certified: Power BI Data Analyst (PL-300)** | *Oct 2024*  
+- **Microsoft Certified: Azure Fundamentals** 
+- **Excel: Managing and Analyzing Data** | *LinkedIn Learning*  
+- **AWS Academy Graduate: Machine Learning Foundations**  
 
-Programming & Query Languages: Python, SQL, DAX, Power Query M, PineScript.
-Tools & Platforms: Power BI, Tableau, MySQL, Azure Synapse Analytics, Advanced Excel.
-Concepts: Data Cleaning, ETL Processes, Statistical Analysis, Visualization, Agile Methodology.
+---
 
-📜 Certifications
+## 📊 **Portfolio Highlights**
+### **Key Projects**
+- **Customer Insights Dashboard:**  
+  Designed a Power BI dashboard for TELUS, reducing call wait times by **40%** and boosting customer satisfaction.  
+- **Government Funding Analytics:**  
+  Researched and visualized data for 1,600+ funding programs, identifying gaps and optimizing chatbot solutions for stakeholders.  
+- **Storage Utilization Model:**  
+  Optimized storage allocation using probabilistic models, improving efficiency by **10%**.  
 
-Microsoft Certified: Power BI Data Analyst Associate (PL-300) – Oct 2024.
-Excel: Managing and Analyzing Data – LinkedIn Learning.
-AWS Academy Graduate – Machine Learning Foundations.
 
-📚 Education
+---
 
-Postgraduate Certificate in Big Data Analytics, Lambton College, 2024.
-Bachelor of Engineering (Electronics & Communication), Inderprastha Engineering College, 2020.
+## 📬 **Contact**
+- **Email:** [Arbaz1khan786@gmail.com](mailto:Arbaz1khan786@gmail.com)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arbazanalytics/)  
+- **GitHub:** [Your GitHub Profile](https://github.com/ArbazAnalytics?tab=repositories)  
 
-🚀 Explore My Portfolio
+---
 
-Browse through my repositories for detailed project breakdowns, scripts, and dashboards: GitHub Portfolio.
-
-📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/arbazanalytics/
-
-Email: Arbaz1khan786@gmail.com
-
-Thank you for visiting! If you have any questions or opportunities for collaboration, feel free to reach out.
+Thank you for visiting my portfolio! Feel free to explore and connect with me for collaborations or opportunities.
